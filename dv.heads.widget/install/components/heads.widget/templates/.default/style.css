@@ -1,0 +1,26 @@
+.sidebar-widget-heads .sidebar-widget-top {
+    background-color: #f8a70b;
+}
+
+.sidebar-widget-heads .sidebar-widget-top {
+    background-color: #f8a70b;
+}
+
+.sidebar-widget-heads .plus-icon:after {
+    background-position: -115px -197px
+}
+
+.sidebar-widget-heads .plus-icon:hover:after {
+    background-position: -144px -197px
+}
+
+
+.heads-empty {
+    text-align: center;
+    font-size: 14px;
+}
+
+.sidebar-widget-item-heads {
+    height: 400px;
+    overflow-y: visible;
+}
